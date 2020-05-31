@@ -1,5 +1,5 @@
 # CVE-G-Dataset
-Most of the image data in the paper were selected from these four datasets, which are LIME, SIDD, HDR and ExDark, and the number of images is 10, 70, 292, 600 respectively. 
+Most of the low light image data in the paper were selected from these four datasets, which are LIME, SIDD, HDR and ExDark, and the number of images is 10, 70, 292, 600 respectively. 
 
 ## Images displayed in paper
 
