@@ -1,5 +1,5 @@
 # Description
-292 pairs of images of HDR can be downloaded at this [https URL](https://cloud.189.cn/t/yymaUrmuiMny) (size = 398.16MB).
+292 pairs of images in HDR can be downloaded at this [https URL](https://cloud.189.cn/t/yymaUrmuiMny) (size = 398.16MB).
 
 The zip file contains two folders, the 'lowlight' folder and the 'Refimg' folder.
 
