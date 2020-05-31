@@ -1,5 +1,5 @@
 # CVE-G-Dataset
-论文中的使用的数据集分别是LIME,SIDD,HDR以及Exdark,图像数量分别是10,70,292,600。
+The datasets used in this paper are LIME, SIDD, HDR and ExDark, and the number of images is 10, 70, 292, 600 respectively.
 
 ## LIME dataset
 
