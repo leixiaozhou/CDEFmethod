@@ -56,7 +56,7 @@ Note:
 2.Please [click this address](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset) to see more about the ExDark dataset.
 
 
-##citation
+## citation
 
 If you think the data set and code we collate are helpful for your research, please cite:
 
@@ -71,3 +71,4 @@ If you think the data set and code we collate are helpful for your research, ple
 
 
 ```
+
