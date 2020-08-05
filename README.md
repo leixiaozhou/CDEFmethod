@@ -33,7 +33,15 @@ Note:
 
 1.Please do not change the serial number of the images. They correspond to each other. e.g.  'HDRR(1).PNG' is the reference image under normal image of 'HDRL(1).PNG'.
 
-2.The complete HDR dataset includes 1811 images, from which we randomly selected 494 color images.
+2.The complete HDR data set includes 1811 images, from which we select 494 color images that meet the specific requirements.
+
+Specific requirements include:
+
+(1). The same size;
+
+(2). The image under normal illumination is natural without color distortion;
+
+(3). There is no shape distortion in the image under normal illumination.
 
 3.Please [click this address](https://live.ece.utexas.edu/research/HDRDB/hdr_index.html) to see more about the HDR dataset.
 
@@ -48,4 +56,18 @@ Note:
 2.Please [click this address](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset) to see more about the ExDark dataset.
 
 
+##citation
 
+If you think the data set and code we collate are helpful for your research, please cite:
+
+```
+
+@article{CVEG,
+  title={Perceiving Unknown in Dark from Perspective of Cell Vibration},
+  author={Xiaozhou Lei and Minrui Fei and Wenju Zhou and Huiyu Zhou},
+  booktitle={arXiv preprint arXiv:2006.02271},
+  year={2020}
+}
+
+
+```
