@@ -31,7 +31,7 @@ The zip file contains two folders, the 'lowlight' folder and the 'Refimg' folder
 
 Note: 
 
-1.Please do not change the serial number of the images. They correspond to each other. e.g.  'HDRR(1).PNG' is the reference image under normal image of 'HDRL(1).PNG'.
+1.Please do not change the serial number of the images. They correspond to each other. e.g.  'HDRR(1).PNG' is the reference image under normal illumination of 'HDRL(1).PNG'.
 
 2.The complete HDR data set includes 1811 images, from which we select 494 color images that meet the specific requirements.
 
