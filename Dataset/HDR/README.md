@@ -11,6 +11,15 @@ Note:
 
 1.Please do not change the serial number of the images. They correspond to each other. e.g.  'HDRR(1).PNG' is the reference image under normal image of 'HDRL(1).PNG'.
 
-2.The complete HDR dataset includes 1811 images, from which we randomly selected 494 color images.
+
+2.The complete HDR data set includes 1811 images, from which we select 494 color images that meet the specific requirements.
+
+Specific requirements include:
+
+(1). The same size;
+
+(2). The image under normal illumination is natural without color distortion;
+
+(3). There is no shape distortion in the image under normal illumination.
 
 3.Please [click this address](https://live.ece.utexas.edu/research/HDRDB/hdr_index.html) to see more about the HDR dataset.
