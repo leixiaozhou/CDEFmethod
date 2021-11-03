@@ -63,11 +63,13 @@ If you think the data set and code we collate are helpful for your research, ple
 
 ```
 
-@article{CVEG,
-  title={Perceiving Unknown in Dark from Perspective of Cell Vibration},
+@article{CDEF,
+  title={Low-light Image Enhancement Using Cell Vibration Model},
   author={Xiaozhou Lei and Minrui Fei and Wenju Zhou and Huiyu Zhou},
-  booktitle={arXiv preprint arXiv:2006.02271},
-  year={2020}
+  booktitle={It has been submitted to the journal for review.},
+  year={2021}
+  month={11}
+  day={2}
 }
 
 
