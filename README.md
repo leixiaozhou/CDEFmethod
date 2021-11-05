@@ -3,7 +3,7 @@ Here is a resource library of low-light image enhancement papers based on cell v
 
 ## Images displayed in paper
 
-14 images displayed in the paper can be downloaded at this [https URL](https://cloud.189.cn/web/share?code=EbE73mRJbeua)(size = 42.41MB). 
+14 images displayed in the paper can be downloaded at this [https URL](https://cloud.189.cn/web/share?code=EbE73mRJbeua)(size = 11.8MB). 
 
 
 ## Modified version of HDR dataset
