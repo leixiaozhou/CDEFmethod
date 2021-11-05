@@ -8,7 +8,7 @@ Most of the low light image data in the paper were selected from these four data
 
 ## Modified version of HDR dataset
 
-250 pairs of images in HDR dataset can be downloaded at this [https URL](https://cloud.189.cn/t/yymaUrmuiMny) or [here](https://pan.baidu.com/s/1v8YoVVwJE5qLx_JldNAaXg)(提取码：q6ak) (size = 398.16MB).
+250 pairs of images in HDR dataset can be downloaded at this [https URL](https://cloud.189.cn/t/yymaUrmuiMny) or [here](https://pan.baidu.com/s/1v8YoVVwJE5qLx_JldNAaXg)(提取码：q6ak) (size = 352MB).
 
 The zip file contains two folders, the 'lowlight' folder and the 'Refimg' folder.
 
@@ -20,7 +20,7 @@ Note:
 
 1.Please do not change the serial number of the images. They correspond to each other. e.g.  'HDRR(1).PNG' is the reference image under normal illumination of 'HDRL(1).PNG'.
 
-2.Please [click this address](https://live.ece.utexas.edu/research/HDRDB/hdr_index.html) to see more about the HDR dataset.
+2.Please [click this address](https://live.ece.utexas.edu/research/HDRDB/hdr_index.html) to see more about the original HDR dataset.
 
 
 ## citation
