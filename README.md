@@ -1,5 +1,5 @@
 # CDEF
-Most of the low light image data in the paper were selected from these four datasets, which are LIME, SIDD, HDR and ExDark, and the number of images is 10, 70, 292, 600 respectively. 
+Here is a resource library of low-light image enhancement papers based on cell vibration theory. It runs very fast. The encryption code and demo that can be used will be published after the paper is accepted.
 
 ## Images displayed in paper
 
