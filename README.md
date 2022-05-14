@@ -31,8 +31,8 @@ If you think the data set and code we collate are helpful for your research, ple
 ```
 
 @article{CDEF,
-  title={Low-light Image Enhancement Using Cell Vibration Model},
-  author={Xiaozhou Lei and Minrui Fei and Wenju Zhou and Huiyu Zhou},
+  title={Low-light Image Enhancement Using the Cell Vibration Model},
+  author={Xiaozhou Lei, Zixiang Fei, Wenju Zhou, Huiyu Zhou and Minrui Fei},
   journal={IEEE Transactions on Multimedia},
   year={2022}
   month={05}
