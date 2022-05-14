@@ -4,12 +4,12 @@ Here is a resource library of low-light image enhancement papers based on the ce
 
 ## Images displayed in paper
 
-20 images displayed in the paper can be downloaded at this [https URL](https://cloud.189.cn/web/share?code=qymAJzayuei2)（访问码：mgj4）(size = 13.51MB). 
+20 images displayed in the paper can be downloaded at this [https URL](https://cloud.189.cn/web/share?code=qymAJzayuei2)（访问码：mgj4）or [Google URL]() (size = 13.51MB). 
 
 
 ## Modified version of HDR dataset
 
-250 pairs of images in HDR dataset can be downloaded at this [https URL](https://cloud.189.cn/web/share?code=NZ7ZZbjeuAVz) (size = 352MB).
+250 pairs of images in HDR dataset can be downloaded at this [https URL](https://cloud.189.cn/web/share?code=NZ7ZZbjeuAVz) or [Google URL]() (size = 352MB).
 
 The zip file contains two folders, the 'lowlight' folder and the 'Refimg' folder.
 
