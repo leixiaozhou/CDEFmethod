@@ -1,6 +1,6 @@
 # Low-light Image Enhancement Using the Cell Vibration Model
-# CDEF
-Here is a resource library of low-light image enhancement papers based on cell vibration theory. It runs very fast. The encryption code and demo that can be used will be published after the paper is accepted.
+# CDEF：Cell-Dual region-Energy-Fusion
+Here is a resource library of low-light image enhancement papers based on the cell vibration theory. It runs very fast. Specifically: Using MATLAB platform, 4500W pixel color image only needs 1.8s running time. The paper has been accepted by IEEE Transactions on Multimedia (IEEE TMM) on May 12, 2022. The encryption code and demo are now available for download.
 
 ## Images displayed in paper
 
