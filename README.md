@@ -40,7 +40,8 @@ If you think the data set and code we collate are helpful for your research, ple
   journal={IEEE Transactions on Multimedia},
   year={2022}
   month={05}
-  day={13}
+  day={19}
+  doi={10.1109/TMM.2022.3175634}
 }
 
 
