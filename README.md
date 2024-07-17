@@ -38,13 +38,14 @@ If you think the data set and code we collate are helpful for your research, ple
 
 ```
 
-@article{CDEF,
-  title={Low-light Image Enhancement Using the Cell Vibration Model},
-  author={Xiaozhou Lei, Zixiang Fei, Wenju Zhou, Huiyu Zhou and Minrui Fei},
-  journal={IEEE Transactions on Multimedia},
-  year={2022}
-  month={05}
-  day={19}
+@ARTICLE{CDEF,
+  author={Xiaozhou Lei; Zixiang Fei; Wenju Zhou; Huiyu Zhou; Minrui Fei},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Low-Light Image Enhancement Using the Cell Vibration Model}, 
+  year={2023},
+  volume={25},
+  number={},
+  pages={4439-4454},
   doi={10.1109/TMM.2022.3175634}
 }
 
