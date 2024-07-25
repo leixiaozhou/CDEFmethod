@@ -39,7 +39,7 @@ If you think the data set and code we collate are helpful for your research, ple
 ```
 
 @ARTICLE{CDEF,
-  author={Xiaozhou Lei, Zixiang Fei, Wenju Zhou, Huiyu Zhou and Minrui Fei},
+  author={Lei X., Fei Z., Zhou W., Zhou H. and Fei M.},
   journal={IEEE Transactions on Multimedia}, 
   title={Low-Light Image Enhancement Using the Cell Vibration Model}, 
   year={2023},
